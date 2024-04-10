@@ -63,7 +63,7 @@ justify-content: center;
 
 .follow  ,.message{
     display:inline-flex;
-    flex-direction:;
+    /* flex-direction; */
     background-color: black;
     height: 50px;
     width: 150px;
@@ -101,4 +101,3 @@ justify-content: center;
             text-decoration: none;
             color: aliceblue;
         }
-        
